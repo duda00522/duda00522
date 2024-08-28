@@ -10,7 +10,6 @@ Meu nome é Eduarda Cremonez
 
 eduarda.cremonez@escola.pr.gov.br
 
-https://media1.tenor.com/m/GEP7e6U2uqgAAAAC/spongebob-happy.gif
-
+@eduarda.cremonez
 
 !.[](https://media1.tenor.com/m/GEP7e6U2uqgAAAAC/spongebob-happy.gif)
